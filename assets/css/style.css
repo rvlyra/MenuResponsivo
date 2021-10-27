@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('mobile.css');
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+     ::-webkit-scrollbar {
+        background-color: #4d4d4d;
+        width: 15px;
+        border-top-right-radius: 5px;
+        border-bottom-left-radius: 5px;
+    }
+    ::-webkit-scrollbar-thumb{
+        background-color: #6d6d6d;
+        border-radius: 5px;
+    }
+
+
+a {
+    color: #ece6e6;
+    text-decoration: none;
+    transition: 0.5s;
+}
+
+a:hover {
+    opacity: 0.6;
+}
+
+.logo {
+    font: 1.2em  Helvetica, sans-serif;
+    text-transform: uppercase;
+    word-spacing: 2px;
+    letter-spacing: 2px; 
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10px;
+    font-family: system-ui, -apple-system, Helvetica, Arial, sans-serif;
+    background-color: rgb(94, 43, 77);
+    height: 6vh;
+    color: white;
+}
+
+main {
+    background: url("../img/bg-main.jpg") no-repeat center center /* center X center Y*/;
+    background-size: cover;
+    height: 95vh;
+    overflow: hidden;
+}
+
+.menu-items {
+    list-style: none;
+    display: flex;
+}
+
+.menu-items li {
+    letter-spacing: 2px;
+    margin-left: 25px;
+}
+
+.mb-menu {
+    cursor: pointer;
+    display: none;
+}
+
+.mb-menu div {
+    width: 20px;
+    height: 2px;
+    border-radius: 5px;
+    background-color: aliceblue;
+    margin: 8px;
+    transition: 0.4s;
+}
