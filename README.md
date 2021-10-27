@@ -2,6 +2,8 @@
 
 Criando novos designers de menus para aplicações responsivas usando HTML, CSS, JS e JQuery.
 
+
+
 ### Referências (links)
 
 | Sobre o método <a href="https://tableless.com.br/explorando-metodo-bind-em-javascript/">bind</a> com javascript:
