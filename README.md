@@ -3,6 +3,7 @@
 Criando novos designers de menus para aplicações responsivas usando HTML, CSS, JS e JQuery.
 
 
+![](https://github.com/rubenslyra/MenuResponsivo/blob/master/assets/screenshot-videomenu.gif)
 
 ### Referências (links)
 
