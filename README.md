@@ -7,10 +7,12 @@ Criando novos designers de menus para aplicações responsivas usando HTML, CSS,
 
 ### Referências (links)
 
-| Sobre o método <a href="https://tableless.com.br/explorando-metodo-bind-em-javascript/" target="_blank !important">bind</a> com javascript:
+| Sobre o método <b>bind</b> com javascript:
 
 - link 1 - <a href="https://tableless.com.br/explorando-metodo-bind-em-javascript/" target="_blank">Tableless</a>
 - link 2 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Function/bind" target="_blank"> Dev Mozilla</a>
+
+[link](https://tableless.com.br/explorando-metodo-bind-em-javascript/){:target="_blank"}
 
 | Sobre media queries (@media):
 
