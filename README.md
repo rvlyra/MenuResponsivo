@@ -13,9 +13,6 @@ Criando novos designers de menus para aplicações responsivas usando HTML, CSS,
 - link 2 - <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript/Reference/Global_Objects/Function/bind" target="_blank"> Dev Mozilla</a>
 
 
-[Google](https://google.com" target="_blank)
-
-
 | Sobre media queries (@media):
 
 - link 1 <a href="https://www.w3.org/TR/mediaqueries-5/" target="_blank"> W3 </a>
